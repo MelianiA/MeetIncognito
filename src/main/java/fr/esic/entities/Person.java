@@ -1,5 +1,6 @@
-package fr.esic.fr.esic;
+package fr.esic.entities;
 
+ 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
